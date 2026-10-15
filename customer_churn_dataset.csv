@@ -1,0 +1,1001 @@
+tenure_months,monthly_charges,contract_type,internet_service,tech_support,payment_method,support_calls,total_charges,churn
+7,1946.08,One year,Fiber optic,No,Debit card,0,13533.92,0
+56,2260.45,Two year,DSL,No,UPI,2,126326.14,0
+48,2333.22,Month-to-month,No,Yes,Bank transfer,0,112397.96,0
+32,1456.63,Month-to-month,DSL,No,Debit card,2,46280.47,0
+32,1491.58,One year,Fiber optic,No,Bank transfer,2,47573.96,0
+62,2078.73,Month-to-month,Fiber optic,No,Bank transfer,1,129318.43,0
+7,1059.35,One year,No,No,Bank transfer,1,7430.42,1
+51,2157.5,Month-to-month,No,No,Debit card,1,109485.94,0
+15,1436.7,Month-to-month,DSL,No,UPI,2,21740.9,1
+7,642.3,One year,DSL,Yes,UPI,5,4357.34,0
+38,550.32,Month-to-month,Fiber optic,No,Debit card,1,21451.11,0
+71,2167.19,Month-to-month,Fiber optic,No,Credit card,1,153658.32,0
+53,515.69,One year,Fiber optic,No,Bank transfer,0,27699.5,0
+55,988.28,One year,Fiber optic,No,Debit card,1,54976.89,0
+52,1100.67,Two year,Fiber optic,No,Cash,2,56937.01,0
+57,762.29,Month-to-month,DSL,No,UPI,1,43382.91,0
+37,1058.18,Month-to-month,Fiber optic,No,Credit card,2,39288.68,0
+10,1958.65,Two year,Fiber optic,Yes,Bank transfer,0,19286.43,1
+61,429.83,Month-to-month,DSL,No,UPI,1,26314.23,0
+33,2136.06,Month-to-month,Fiber optic,No,Credit card,2,70411.26,0
+37,2197.75,Month-to-month,Fiber optic,No,Bank transfer,1,81230.98,0
+27,1180.75,Month-to-month,DSL,No,Debit card,1,31897.38,0
+14,721.59,Two year,Fiber optic,Yes,Bank transfer,2,10127.2,0
+67,1660.76,One year,DSL,No,Debit card,2,111328.28,0
+57,650.31,One year,No,No,Cash,2,36858.08,0
+47,1165.33,Month-to-month,Fiber optic,No,Cash,0,54576.2,0
+29,2411.7,Month-to-month,No,Yes,Cash,0,69897.79,0
+60,2489.48,Month-to-month,No,Yes,UPI,1,149353.13,0
+40,2020.42,Month-to-month,DSL,No,Debit card,3,80663.2,1
+32,1052.02,Month-to-month,DSL,No,UPI,1,33778.02,0
+33,1843.1,Month-to-month,DSL,Yes,Credit card,1,60187.13,0
+17,1880.35,Month-to-month,DSL,Yes,Credit card,3,31710.29,0
+7,1213.47,One year,DSL,No,Bank transfer,1,8396.32,0
+40,1744.87,One year,Fiber optic,Yes,Debit card,2,69495.16,1
+64,421.53,Month-to-month,No,No,Cash,2,27548.14,0
+5,838.02,Month-to-month,DSL,No,Credit card,3,4196.7,0
+62,1501.69,One year,DSL,Yes,Bank transfer,2,93166.65,0
+60,742.88,One year,Fiber optic,No,Bank transfer,2,44403.67,0
+20,747.4,One year,Fiber optic,Yes,Cash,4,14942.48,0
+46,2155.24,Month-to-month,DSL,Yes,Credit card,2,98715.7,0
+12,2476.18,Two year,DSL,No,Bank transfer,0,29654.72,0
+55,1566.54,Month-to-month,Fiber optic,No,UPI,3,85831.75,0
+51,2161.05,Month-to-month,Fiber optic,No,Debit card,1,110116.46,1
+26,2478.68,Month-to-month,Fiber optic,Yes,Debit card,1,63549.71,0
+5,696.35,Month-to-month,DSL,Yes,Cash,3,3086.95,0
+70,1340.32,Month-to-month,Fiber optic,No,Bank transfer,3,94334.77,0
+33,1223.4,Month-to-month,No,No,Cash,2,40662.84,0
+65,567.1,One year,Fiber optic,No,Cash,2,37323.16,0
+49,1985.19,Month-to-month,Fiber optic,Yes,Debit card,0,97760.01,0
+57,1309.94,Month-to-month,Fiber optic,No,Bank transfer,1,74902.13,0
+55,1384.59,Month-to-month,DSL,No,UPI,3,75993.95,0
+15,715.41,Month-to-month,DSL,No,Debit card,0,10368.11,0
+27,778.95,Month-to-month,DSL,Yes,UPI,2,21433.01,0
+34,2303.92,Month-to-month,No,No,Bank transfer,0,78355.88,1
+36,492.76,Month-to-month,Fiber optic,Yes,Cash,0,18612.27,0
+4,887.99,One year,DSL,No,Bank transfer,1,3424.18,0
+40,1012.32,Two year,Fiber optic,No,Cash,2,41183.31,0
+12,1428.41,Month-to-month,Fiber optic,No,Credit card,4,17086.04,1
+54,1630.53,One year,Fiber optic,No,Cash,2,88516.24,0
+50,1434.91,Two year,Fiber optic,No,Debit card,0,72339.34,0
+67,575.64,Two year,DSL,No,Bank transfer,1,38209.85,0
+54,910.7,One year,DSL,No,Bank transfer,0,49008.05,0
+27,2170.54,Two year,DSL,No,Bank transfer,0,58243.04,0
+70,1737.94,Two year,DSL,Yes,Credit card,1,121225.32,0
+30,1762.21,One year,DSL,No,Bank transfer,1,53099.77,0
+24,1806.43,Month-to-month,Fiber optic,No,Bank transfer,2,43285.5,0
+66,2001.1,Month-to-month,Fiber optic,No,Cash,2,132090.93,0
+27,521.03,Month-to-month,Fiber optic,No,Debit card,2,14262.49,0
+6,1168.88,Month-to-month,DSL,No,Debit card,2,6363.19,1
+34,1532.01,Month-to-month,No,Yes,Debit card,1,52538.71,0
+58,1109.76,Month-to-month,Fiber optic,No,UPI,0,64243.9,0
+14,2172.41,One year,DSL,Yes,UPI,0,30600.08,0
+34,1412.4,One year,DSL,Yes,UPI,0,48238.85,0
+10,2013.12,Two year,DSL,No,Bank transfer,0,20610.98,0
+50,2188.23,Month-to-month,DSL,Yes,Debit card,2,109374.8,0
+35,1459.06,Month-to-month,DSL,No,Cash,1,50323.83,0
+24,2309.06,One year,DSL,No,Bank transfer,1,55437.43,0
+17,1631.96,Two year,DSL,Yes,UPI,1,27813.57,0
+41,2184.58,Two year,Fiber optic,No,UPI,3,89205.79,0
+49,1114.24,Two year,No,Yes,Credit card,1,54649.38,0
+68,1446.52,Two year,Fiber optic,No,Cash,4,98237.0,0
+32,1514.96,Month-to-month,DSL,No,UPI,2,48008.76,0
+12,619.46,Month-to-month,Fiber optic,No,UPI,0,7668.54,1
+60,1235.96,Month-to-month,Fiber optic,No,UPI,0,73960.3,0
+46,2325.41,One year,Fiber optic,No,Debit card,1,106826.63,0
+51,1723.75,Two year,Fiber optic,No,Cash,0,87749.35,0
+8,771.76,Month-to-month,Fiber optic,No,Bank transfer,0,6606.5,1
+23,1110.6,One year,Fiber optic,No,Debit card,1,25529.48,0
+56,801.37,Month-to-month,Fiber optic,No,UPI,0,44904.4,0
+60,451.13,Month-to-month,Fiber optic,Yes,Credit card,1,26913.58,0
+32,2346.67,Month-to-month,DSL,No,Debit card,3,75255.44,0
+58,1340.24,Month-to-month,DSL,Yes,Credit card,1,78206.18,0
+61,1044.82,Two year,DSL,No,Bank transfer,1,63960.77,0
+28,1655.8,Month-to-month,Fiber optic,Yes,Cash,0,46602.8,0
+65,414.36,Two year,Fiber optic,Yes,Credit card,1,27145.58,0
+21,982.85,One year,No,No,Credit card,0,20156.77,0
+18,1875.37,Month-to-month,Fiber optic,No,UPI,1,33450.02,0
+50,1729.92,Month-to-month,Fiber optic,No,Bank transfer,0,86424.25,0
+46,2460.79,One year,No,No,Debit card,0,112942.29,0
+11,1701.75,Month-to-month,No,No,Credit card,0,18346.66,0
+60,1401.76,Two year,Fiber optic,Yes,Credit card,1,83450.34,0
+15,1998.01,Month-to-month,DSL,Yes,UPI,2,29498.86,0
+58,2295.99,One year,Fiber optic,No,Debit card,2,133077.64,0
+1,1912.46,One year,DSL,Yes,Bank transfer,0,1912.46,0
+58,2421.74,Month-to-month,Fiber optic,No,Credit card,2,140183.35,0
+57,2041.21,Month-to-month,Fiber optic,Yes,UPI,1,116376.59,0
+57,2219.28,Two year,DSL,Yes,Debit card,1,126347.12,0
+48,638.62,Month-to-month,Fiber optic,Yes,Bank transfer,2,31035.46,0
+34,1937.07,Month-to-month,DSL,Yes,Credit card,0,65803.81,0
+51,1323.19,Month-to-month,Fiber optic,Yes,Credit card,2,67726.41,0
+20,1560.52,Month-to-month,DSL,No,UPI,1,31281.52,0
+57,1772.62,One year,DSL,Yes,Bank transfer,3,100548.62,0
+41,2435.61,One year,DSL,No,Cash,1,99828.28,0
+34,2466.61,Month-to-month,DSL,No,Bank transfer,2,83432.27,0
+37,1004.28,Two year,Fiber optic,No,Debit card,2,37120.52,0
+41,1939.88,Month-to-month,DSL,No,Bank transfer,3,79274.28,0
+3,1973.97,Month-to-month,Fiber optic,Yes,Credit card,5,6055.6,1
+11,1126.64,One year,DSL,Yes,UPI,2,11923.22,0
+18,659.13,Two year,DSL,Yes,Credit card,2,11869.49,0
+9,484.99,Month-to-month,No,No,Bank transfer,2,4565.26,0
+32,2031.42,Month-to-month,DSL,No,Bank transfer,0,65323.1,0
+49,1427.37,Month-to-month,No,Yes,Cash,2,69673.67,0
+48,2468.63,One year,Fiber optic,No,Cash,1,118500.45,0
+34,1375.44,Month-to-month,No,No,Credit card,3,46829.41,1
+62,2452.63,Month-to-month,DSL,No,UPI,2,152604.55,0
+41,1263.31,One year,Fiber optic,No,Credit card,1,51277.24,0
+6,2065.73,Month-to-month,DSL,No,Cash,3,12075.49,0
+56,577.12,Month-to-month,Fiber optic,No,Cash,0,33300.28,0
+42,1565.47,Month-to-month,Fiber optic,No,UPI,2,65654.16,0
+46,2083.33,Month-to-month,Fiber optic,Yes,UPI,0,95171.33,0
+41,2340.87,Month-to-month,Fiber optic,Yes,Debit card,1,95771.78,0
+40,2126.42,Two year,DSL,No,Bank transfer,1,84087.69,0
+7,476.64,One year,DSL,No,Cash,1,3420.8,0
+41,1181.67,One year,DSL,No,Bank transfer,1,48731.89,0
+58,501.27,Two year,DSL,No,Credit card,2,28754.58,0
+22,628.49,Month-to-month,Fiber optic,Yes,UPI,0,13662.03,0
+44,1817.14,Month-to-month,Fiber optic,No,Bank transfer,2,80277.44,0
+3,1896.84,Two year,Fiber optic,Yes,Debit card,0,5077.94,0
+26,2023.81,Month-to-month,DSL,No,Cash,0,52156.51,0
+32,2216.46,One year,Fiber optic,No,Debit card,3,70846.88,0
+71,1951.81,One year,DSL,Yes,Debit card,2,138315.19,0
+16,2080.83,Month-to-month,DSL,Yes,Credit card,0,33190.43,0
+20,501.82,Month-to-month,DSL,No,UPI,2,9594.09,0
+30,891.52,Month-to-month,DSL,Yes,Cash,2,26820.61,0
+72,1704.99,Month-to-month,Fiber optic,Yes,Cash,1,122707.05,0
+62,2201.06,Month-to-month,DSL,No,UPI,2,136657.94,0
+3,408.45,Month-to-month,DSL,Yes,Bank transfer,0,1295.49,0
+17,1479.72,One year,DSL,No,Credit card,3,25227.58,1
+60,1821.3,Two year,DSL,Yes,Debit card,6,108771.79,0
+5,461.18,One year,DSL,No,Cash,1,2478.31,1
+62,1241.85,Month-to-month,No,Yes,Cash,2,76878.9,0
+21,2279.83,Month-to-month,Fiber optic,Yes,UPI,0,47818.12,0
+67,1809.39,Month-to-month,DSL,Yes,Credit card,5,121596.02,0
+22,898.08,Month-to-month,DSL,Yes,Cash,1,19505.96,0
+32,2189.84,Two year,Fiber optic,Yes,Cash,1,70547.79,0
+48,1129.87,Month-to-month,No,Yes,UPI,3,54739.33,0
+10,2191.02,Month-to-month,Fiber optic,Yes,Cash,1,22173.67,0
+41,1026.78,Two year,DSL,No,Debit card,1,41754.76,0
+37,1638.67,Month-to-month,Fiber optic,No,Debit card,2,59865.59,0
+57,1232.57,Month-to-month,Fiber optic,Yes,UPI,1,70634.08,0
+72,976.13,Month-to-month,DSL,Yes,Bank transfer,0,70320.34,0
+48,2260.77,One year,Fiber optic,No,Bank transfer,0,108256.14,1
+30,792.95,One year,Fiber optic,No,Bank transfer,3,24199.25,0
+30,577.1,Month-to-month,Fiber optic,No,Bank transfer,2,17011.45,0
+31,1117.05,Two year,DSL,Yes,Cash,1,34480.1,0
+59,1906.04,Two year,DSL,No,Cash,2,112640.07,0
+24,2094.61,Two year,DSL,Yes,Bank transfer,1,49880.88,0
+13,2496.36,Month-to-month,Fiber optic,Yes,Cash,1,32414.36,0
+25,1021.36,Month-to-month,DSL,Yes,Bank transfer,2,25915.2,0
+2,1255.68,Two year,Fiber optic,No,Bank transfer,0,2585.25,0
+8,686.32,Month-to-month,DSL,Yes,Debit card,1,5927.16,0
+7,1606.23,One year,Fiber optic,No,Bank transfer,1,11640.37,1
+56,2493.92,One year,Fiber optic,Yes,UPI,1,139662.23,1
+53,1870.85,Month-to-month,Fiber optic,Yes,Debit card,2,98337.19,0
+51,1648.95,One year,DSL,No,Debit card,1,83709.43,0
+34,1222.98,Two year,DSL,No,Cash,1,41848.49,0
+52,2321.13,One year,Fiber optic,Yes,UPI,2,120156.17,0
+12,1442.52,Month-to-month,DSL,No,Bank transfer,6,17195.9,0
+65,681.17,Two year,DSL,Yes,UPI,2,44394.52,0
+37,1166.29,Month-to-month,Fiber optic,Yes,Cash,1,43667.08,0
+68,540.05,One year,DSL,No,Cash,1,36522.14,0
+11,823.16,Two year,DSL,Yes,Credit card,1,8829.54,0
+36,436.1,One year,Fiber optic,No,Cash,0,15681.24,1
+51,1350.89,Month-to-month,DSL,No,Debit card,4,69018.21,1
+36,1731.53,Month-to-month,Fiber optic,Yes,Cash,2,62281.09,0
+33,1119.91,Month-to-month,DSL,Yes,Bank transfer,1,37324.27,0
+12,1281.8,Month-to-month,Fiber optic,Yes,UPI,2,15101.9,0
+28,2413.34,Month-to-month,DSL,No,Credit card,2,67615.58,0
+18,1978.12,One year,Fiber optic,No,Debit card,1,35761.98,0
+22,1534.8,Month-to-month,DSL,No,Credit card,0,33625.52,1
+50,996.54,One year,No,Yes,UPI,1,50120.9,0
+46,2282.69,Two year,Fiber optic,No,Cash,0,105055.88,0
+44,892.7,Month-to-month,DSL,Yes,Cash,1,39554.9,1
+27,1082.22,One year,No,No,Debit card,2,29287.88,0
+70,2308.04,One year,DSL,No,Credit card,1,161694.54,0
+7,1511.04,Month-to-month,Fiber optic,No,UPI,1,10355.94,1
+25,1957.87,Month-to-month,DSL,Yes,Cash,1,48725.98,0
+9,1639.56,One year,Fiber optic,Yes,Credit card,1,15184.58,0
+25,1771.22,Two year,Fiber optic,Yes,UPI,0,44502.93,0
+70,1027.7,One year,DSL,No,Credit card,3,71580.96,0
+27,905.88,Two year,DSL,No,Debit card,0,24522.06,0
+66,1076.23,Two year,DSL,Yes,Bank transfer,1,70200.36,0
+36,725.43,Month-to-month,Fiber optic,No,Credit card,3,25914.6,0
+51,2235.06,One year,DSL,No,Cash,2,114324.42,0
+33,993.82,Month-to-month,DSL,Yes,Bank transfer,1,32752.26,0
+20,1578.13,Two year,Fiber optic,Yes,Cash,2,31603.87,0
+56,2062.15,Month-to-month,DSL,Yes,Credit card,2,114424.67,0
+70,2045.03,Month-to-month,Fiber optic,No,Bank transfer,1,143014.81,0
+19,1319.61,Two year,Fiber optic,No,Credit card,1,25190.99,0
+57,1399.14,Month-to-month,DSL,No,Bank transfer,2,79913.83,0
+19,2487.87,One year,No,No,Bank transfer,0,47606.35,0
+52,1815.65,Month-to-month,Fiber optic,No,Credit card,2,94340.21,0
+57,2109.74,Two year,Fiber optic,No,Cash,0,120197.2,0
+33,2294.36,Two year,Fiber optic,No,Cash,2,75247.64,0
+54,2052.94,Month-to-month,DSL,No,Cash,0,110787.18,0
+20,787.88,One year,Fiber optic,No,Credit card,1,15316.05,0
+6,1579.56,Month-to-month,DSL,No,Bank transfer,0,8830.61,0
+7,612.98,One year,No,No,UPI,0,3911.05,0
+33,1770.14,One year,Fiber optic,No,UPI,2,58942.66,0
+65,2405.23,Two year,DSL,No,Cash,2,156245.25,0
+10,1475.74,Month-to-month,DSL,No,UPI,2,14834.36,0
+33,1308.24,Month-to-month,DSL,No,Cash,4,42992.2,0
+51,474.27,One year,Fiber optic,No,Debit card,2,23561.08,0
+15,2414.53,One year,Fiber optic,No,Credit card,1,36545.59,0
+52,615.31,Month-to-month,Fiber optic,No,UPI,1,31235.85,0
+23,485.27,Month-to-month,DSL,No,Bank transfer,3,10967.03,0
+59,915.74,Month-to-month,DSL,No,Bank transfer,1,54009.54,0
+42,536.61,Two year,Fiber optic,Yes,Debit card,3,22618.29,0
+40,1354.75,Month-to-month,Fiber optic,No,Cash,1,53935.74,0
+13,1482.78,Month-to-month,DSL,No,Credit card,1,18632.85,0
+34,1055.4,Two year,Fiber optic,No,Debit card,2,35603.22,0
+62,506.02,Month-to-month,Fiber optic,No,Credit card,2,31111.17,0
+2,633.36,One year,DSL,No,Debit card,2,996.14,0
+55,1206.46,Month-to-month,Fiber optic,No,UPI,0,66694.82,0
+36,526.11,Two year,Fiber optic,Yes,Debit card,2,18515.2,0
+52,1865.2,One year,Fiber optic,No,Debit card,0,97095.74,0
+48,833.74,Two year,Fiber optic,Yes,Debit card,0,40074.92,0
+32,1033.35,Month-to-month,DSL,No,Debit card,1,33403.36,0
+23,1226.66,Month-to-month,DSL,No,Bank transfer,0,28166.58,0
+46,1273.88,One year,DSL,No,Debit card,2,58875.38,0
+11,402.49,Month-to-month,Fiber optic,Yes,Credit card,0,4367.11,1
+43,634.35,Month-to-month,DSL,Yes,Credit card,5,27429.09,0
+7,2210.81,Month-to-month,Fiber optic,No,Bank transfer,2,14949.64,1
+47,401.59,Two year,DSL,No,Cash,2,17951.33,0
+46,1466.15,One year,Fiber optic,Yes,Bank transfer,2,67575.04,0
+7,1426.95,One year,DSL,No,Bank transfer,2,10139.56,1
+55,1098.5,One year,Fiber optic,Yes,Cash,3,60583.93,1
+30,1304.79,Month-to-month,Fiber optic,No,Cash,2,38959.97,0
+57,2038.22,Month-to-month,DSL,Yes,Debit card,0,116699.94,0
+3,2165.53,Month-to-month,Fiber optic,Yes,UPI,4,6335.63,0
+13,945.73,One year,Fiber optic,Yes,Bank transfer,2,12441.8,0
+36,1076.23,Month-to-month,DSL,No,Bank transfer,0,38952.4,0
+14,908.21,Two year,DSL,No,Credit card,1,13316.5,0
+24,1406.71,One year,Fiber optic,No,Cash,2,33650.08,0
+48,1833.84,Month-to-month,DSL,No,Cash,2,87795.7,0
+11,878.33,One year,DSL,Yes,Credit card,0,9137.28,0
+49,1093.55,Month-to-month,DSL,Yes,Debit card,1,54127.28,0
+8,2352.81,Two year,DSL,Yes,UPI,2,18969.97,0
+13,501.0,Two year,DSL,No,UPI,3,6671.57,0
+43,1366.62,Two year,DSL,Yes,Credit card,1,59855.51,0
+58,1893.27,Month-to-month,DSL,No,Credit card,0,109923.43,0
+13,714.95,Month-to-month,No,Yes,Credit card,1,8838.54,0
+22,498.49,Month-to-month,Fiber optic,Yes,UPI,0,10898.21,0
+67,689.23,Month-to-month,Fiber optic,Yes,Debit card,1,45837.24,0
+72,2328.53,Month-to-month,Fiber optic,Yes,Bank transfer,1,167515.61,0
+42,418.45,Month-to-month,No,No,Credit card,1,17433.99,0
+33,794.48,Two year,Fiber optic,No,Debit card,3,26012.38,0
+25,464.7,Month-to-month,DSL,Yes,Credit card,1,11129.85,0
+45,631.32,Month-to-month,DSL,No,Bank transfer,0,28966.78,0
+43,1701.31,Two year,No,No,Bank transfer,1,73260.93,0
+22,906.44,One year,Fiber optic,No,Cash,3,19862.76,0
+2,1594.35,One year,DSL,No,UPI,1,3453.87,0
+11,1638.41,One year,DSL,No,Cash,2,18187.38,0
+70,2182.81,Two year,Fiber optic,No,Credit card,2,152893.19,0
+31,408.96,One year,DSL,No,UPI,1,12917.51,0
+35,2191.08,Month-to-month,Fiber optic,No,Bank transfer,0,76734.68,0
+34,1699.15,One year,DSL,No,UPI,1,58005.68,0
+57,740.76,Month-to-month,DSL,Yes,UPI,5,42486.91,0
+5,2022.17,Month-to-month,Fiber optic,No,Cash,3,10167.8,0
+6,2195.53,Month-to-month,Fiber optic,No,Credit card,2,13096.04,0
+20,932.95,Month-to-month,Fiber optic,Yes,Debit card,2,19194.64,0
+36,2328.47,One year,Fiber optic,No,Credit card,2,83657.65,0
+49,1353.36,Month-to-month,DSL,No,UPI,0,66451.6,0
+36,1666.19,Month-to-month,Fiber optic,Yes,UPI,0,60127.71,0
+32,2466.76,Month-to-month,Fiber optic,No,UPI,3,78722.97,0
+68,1158.23,Two year,DSL,No,Debit card,3,78476.9,0
+12,2106.63,Month-to-month,DSL,No,Debit card,0,25155.71,1
+42,1067.64,One year,DSL,Yes,UPI,2,44668.6,1
+40,2077.35,Two year,No,Yes,Credit card,1,82583.65,0
+35,1660.54,Month-to-month,Fiber optic,No,Credit card,0,57890.88,0
+59,853.35,One year,DSL,Yes,Debit card,2,50440.83,0
+20,1268.45,Month-to-month,Fiber optic,Yes,Cash,2,25812.08,1
+69,1066.03,Month-to-month,DSL,Yes,Bank transfer,4,73750.11,0
+24,563.03,One year,No,Yes,Cash,0,12602.88,0
+40,461.65,Two year,DSL,No,UPI,0,18690.46,0
+38,1126.61,Month-to-month,DSL,No,Credit card,2,42615.83,0
+62,438.97,One year,DSL,No,Bank transfer,0,27374.72,0
+32,746.52,Month-to-month,Fiber optic,No,Credit card,1,23883.69,0
+21,1921.88,One year,DSL,No,Cash,0,40292.04,0
+2,1885.99,One year,DSL,Yes,Debit card,4,3736.2,0
+27,1950.02,One year,No,Yes,Credit card,2,52642.69,0
+60,1065.02,One year,DSL,Yes,Cash,3,64371.74,0
+1,2268.04,Month-to-month,Fiber optic,Yes,Debit card,4,2268.04,1
+65,1646.04,One year,DSL,Yes,Cash,4,107372.54,0
+40,663.66,One year,Fiber optic,Yes,Debit card,0,26875.37,0
+11,700.81,One year,Fiber optic,Yes,UPI,0,7942.38,0
+22,1854.5,Month-to-month,Fiber optic,No,Bank transfer,3,40173.68,0
+40,762.18,Month-to-month,DSL,No,UPI,2,30878.02,0
+23,1464.31,Month-to-month,Fiber optic,No,Bank transfer,0,33518.86,0
+8,2481.73,Month-to-month,Fiber optic,No,Debit card,1,20104.34,1
+48,407.42,Month-to-month,Fiber optic,No,Bank transfer,1,19215.77,0
+49,433.82,Month-to-month,DSL,Yes,Cash,0,20842.4,0
+9,2484.48,One year,DSL,No,Debit card,0,23052.06,0
+21,1626.74,Month-to-month,Fiber optic,Yes,Cash,4,33826.6,0
+18,665.51,Two year,Fiber optic,No,UPI,1,12380.32,0
+48,2283.33,Month-to-month,DSL,No,UPI,2,109641.29,0
+53,2247.8,One year,Fiber optic,No,Cash,1,118986.36,0
+53,1525.02,Month-to-month,DSL,Yes,Debit card,1,80810.37,0
+68,1704.76,Month-to-month,Fiber optic,No,Debit card,0,115468.3,0
+56,972.69,One year,No,No,UPI,3,54465.83,0
+24,505.09,Two year,Fiber optic,No,Credit card,4,11743.2,0
+8,1647.59,Month-to-month,DSL,No,Bank transfer,4,13042.31,0
+45,1017.99,Month-to-month,Fiber optic,No,Cash,2,46133.4,0
+66,1792.6,One year,No,Yes,Cash,0,118400.57,0
+71,2155.11,One year,No,No,Debit card,4,152494.05,0
+17,437.14,Month-to-month,DSL,No,Debit card,1,7729.4,0
+18,1650.0,Month-to-month,Fiber optic,Yes,UPI,3,29697.52,0
+3,884.69,Month-to-month,Fiber optic,Yes,UPI,3,2464.31,1
+11,2234.17,Two year,DSL,No,Debit card,2,24837.21,1
+40,931.7,Month-to-month,DSL,No,Debit card,3,37209.48,0
+40,1681.62,Month-to-month,Fiber optic,No,UPI,1,66856.82,0
+27,1561.44,Two year,Fiber optic,No,Debit card,1,42805.61,1
+23,1230.95,Month-to-month,Fiber optic,No,Bank transfer,3,28305.8,0
+60,1822.0,Month-to-month,DSL,No,Cash,1,109291.52,1
+34,1923.12,Month-to-month,DSL,Yes,Cash,1,65244.29,1
+59,1589.57,Month-to-month,DSL,No,Credit card,3,94197.62,0
+70,1991.69,Month-to-month,DSL,No,Credit card,1,139234.59,0
+23,2464.18,Month-to-month,Fiber optic,Yes,Cash,1,56135.4,0
+15,1279.47,One year,Fiber optic,No,Bank transfer,2,18954.51,0
+69,1479.62,One year,Fiber optic,Yes,Credit card,0,102558.15,0
+46,425.19,Month-to-month,DSL,No,Bank transfer,1,19849.99,0
+21,2070.66,One year,Fiber optic,No,UPI,1,43394.6,0
+45,1491.48,Month-to-month,Fiber optic,No,Debit card,3,67597.24,0
+38,1255.72,Two year,Fiber optic,No,Credit card,0,47979.14,0
+66,596.55,Month-to-month,Fiber optic,No,Cash,3,39278.99,0
+19,2267.28,One year,DSL,No,UPI,1,43020.25,0
+72,1228.52,Month-to-month,Fiber optic,No,Cash,3,88568.7,0
+68,1832.42,One year,Fiber optic,No,Credit card,1,124313.4,0
+14,712.69,Month-to-month,DSL,Yes,UPI,0,9979.24,0
+12,2418.25,One year,Fiber optic,Yes,Bank transfer,3,29126.98,1
+39,773.73,Month-to-month,Fiber optic,No,Bank transfer,2,29585.03,0
+4,818.04,Two year,Fiber optic,Yes,UPI,0,3205.9,0
+22,2202.86,Month-to-month,DSL,Yes,UPI,1,48356.85,0
+32,2315.42,One year,Fiber optic,No,UPI,0,74453.26,0
+70,844.51,Two year,DSL,No,Debit card,0,58470.13,0
+72,1385.58,Two year,No,Yes,UPI,0,99628.23,0
+11,1939.34,Month-to-month,DSL,No,Bank transfer,2,21164.13,0
+65,2243.57,Month-to-month,Fiber optic,No,UPI,1,146168.07,0
+7,1195.01,Month-to-month,DSL,No,Bank transfer,1,8349.83,0
+54,1484.74,Month-to-month,Fiber optic,Yes,Cash,3,80804.59,0
+61,1956.6,One year,Fiber optic,No,Bank transfer,1,119584.37,0
+65,1934.39,Two year,DSL,Yes,Cash,1,125591.77,0
+17,2043.22,Two year,Fiber optic,No,Cash,4,34818.62,0
+65,1595.86,Month-to-month,Fiber optic,Yes,UPI,1,103606.98,0
+9,618.69,One year,Fiber optic,No,Credit card,2,5869.0,0
+38,2297.34,Two year,Fiber optic,Yes,Bank transfer,1,86832.65,0
+34,2216.7,Two year,Fiber optic,No,Credit card,0,75079.51,0
+23,2075.0,Month-to-month,DSL,Yes,Bank transfer,3,47884.49,0
+2,608.71,Month-to-month,No,No,Bank transfer,1,1646.43,1
+56,828.23,Two year,Fiber optic,No,Cash,0,45610.19,1
+25,1960.56,Month-to-month,DSL,Yes,Credit card,1,49495.06,0
+48,447.59,Month-to-month,Fiber optic,Yes,Credit card,1,21435.27,0
+30,2455.37,Two year,Fiber optic,Yes,UPI,1,73001.74,0
+27,1191.0,Two year,Fiber optic,Yes,Credit card,3,31106.4,0
+64,1909.56,Two year,Fiber optic,No,Credit card,1,121676.55,0
+7,2262.9,One year,Fiber optic,No,Debit card,2,15833.4,0
+54,1227.72,Month-to-month,Fiber optic,Yes,Debit card,0,66273.82,0
+54,1069.18,Month-to-month,Fiber optic,No,Cash,3,57957.34,1
+28,1677.36,Month-to-month,DSL,Yes,Bank transfer,2,46773.76,0
+19,1619.08,One year,Fiber optic,No,Bank transfer,1,30374.71,0
+1,1258.19,Month-to-month,Fiber optic,No,UPI,1,1258.19,0
+68,1662.73,One year,Fiber optic,No,Debit card,2,113077.4,0
+69,2363.3,Month-to-month,DSL,No,Bank transfer,2,163148.47,0
+18,1381.04,One year,Fiber optic,No,Credit card,1,24582.51,0
+3,812.16,Month-to-month,DSL,No,Debit card,1,2751.99,0
+9,1191.13,Month-to-month,Fiber optic,Yes,Bank transfer,2,10502.68,0
+5,1226.62,Month-to-month,Fiber optic,No,Bank transfer,1,5828.7,0
+60,674.33,Month-to-month,No,No,Cash,1,40269.96,0
+65,741.03,Two year,Fiber optic,No,Debit card,2,48543.14,0
+12,1836.58,Month-to-month,Fiber optic,Yes,Credit card,0,21992.48,0
+54,1111.9,Month-to-month,Fiber optic,Yes,Credit card,1,59799.52,0
+13,2404.29,One year,No,No,Bank transfer,0,31579.91,1
+27,910.55,One year,DSL,No,Debit card,0,25334.81,0
+44,606.74,Month-to-month,DSL,No,Debit card,1,26769.95,0
+52,1981.36,Month-to-month,No,No,UPI,1,103462.56,0
+63,2249.18,Month-to-month,Fiber optic,No,Debit card,1,142060.97,0
+4,983.04,One year,No,Yes,Credit card,2,3720.19,0
+15,823.39,Month-to-month,Fiber optic,No,Debit card,0,12360.17,0
+21,789.11,Month-to-month,DSL,Yes,Cash,3,16122.42,0
+23,1495.23,Month-to-month,Fiber optic,Yes,Bank transfer,2,34318.56,0
+72,1382.67,One year,Fiber optic,Yes,Debit card,2,99333.07,0
+56,943.82,Month-to-month,No,No,Cash,2,52712.91,1
+24,493.86,Two year,Fiber optic,No,Cash,1,11590.18,0
+70,1410.13,Month-to-month,No,No,Debit card,2,98608.62,0
+36,2413.6,One year,Fiber optic,Yes,Bank transfer,0,87075.88,0
+37,1769.29,Month-to-month,DSL,No,Credit card,4,65421.91,0
+32,1439.56,Month-to-month,No,No,Cash,4,45413.39,0
+11,631.45,Month-to-month,Fiber optic,No,Credit card,0,6684.81,0
+68,929.12,One year,No,No,Credit card,1,62648.37,0
+2,1018.03,Two year,DSL,No,UPI,0,2121.48,0
+13,2005.09,Month-to-month,DSL,No,Cash,3,26242.33,1
+17,2240.09,Month-to-month,Fiber optic,No,Credit card,3,38171.32,1
+21,2292.45,Two year,DSL,No,Cash,1,47865.86,0
+10,2466.59,Month-to-month,DSL,No,UPI,0,24752.3,0
+2,2461.97,Month-to-month,Fiber optic,No,Debit card,0,4759.4,0
+49,2400.3,Month-to-month,Fiber optic,Yes,Debit card,5,117216.32,0
+70,549.83,One year,Fiber optic,No,Debit card,3,38747.78,0
+9,688.37,One year,DSL,No,UPI,0,6481.64,0
+22,1038.38,One year,Fiber optic,No,UPI,1,23176.47,0
+37,1560.09,Two year,DSL,No,Credit card,1,57510.41,0
+67,602.65,Month-to-month,No,Yes,Debit card,0,40790.33,0
+50,2175.17,Month-to-month,Fiber optic,No,Bank transfer,0,108585.75,1
+56,1694.19,Month-to-month,Fiber optic,Yes,Debit card,4,95103.37,0
+42,1537.97,Month-to-month,DSL,No,Credit card,1,64415.92,0
+31,746.15,Month-to-month,Fiber optic,Yes,Credit card,0,23052.26,1
+15,930.84,Month-to-month,DSL,No,Bank transfer,3,13115.19,0
+63,735.66,Month-to-month,DSL,No,Debit card,1,46240.91,0
+58,2188.06,One year,DSL,No,Cash,1,126939.36,0
+2,1625.88,Month-to-month,Fiber optic,Yes,Debit card,2,3108.24,0
+52,1942.77,Month-to-month,DSL,No,Debit card,1,101638.71,0
+7,1020.67,One year,DSL,No,UPI,0,6737.83,0
+54,1178.63,One year,Fiber optic,No,UPI,0,63448.77,0
+60,1249.2,One year,DSL,No,Cash,4,74635.29,0
+10,1995.03,One year,DSL,Yes,Credit card,0,19752.98,0
+32,2020.94,One year,DSL,No,Debit card,1,65031.07,0
+9,833.31,Month-to-month,Fiber optic,Yes,Debit card,2,8017.1,0
+41,2376.23,Month-to-month,Fiber optic,Yes,UPI,1,97180.15,0
+67,652.38,One year,Fiber optic,No,Debit card,1,43456.41,0
+6,2280.86,Month-to-month,Fiber optic,No,Credit card,0,13280.16,1
+29,609.83,Month-to-month,Fiber optic,Yes,UPI,0,18142.27,0
+71,954.53,Month-to-month,No,Yes,Debit card,3,68163.98,0
+22,2176.6,Month-to-month,Fiber optic,Yes,Debit card,0,47848.11,0
+10,775.93,Month-to-month,DSL,Yes,UPI,1,7270.67,0
+36,1267.49,Month-to-month,Fiber optic,No,Debit card,0,45172.31,0
+37,1343.7,Two year,Fiber optic,Yes,Bank transfer,1,49776.62,0
+48,914.04,Two year,Fiber optic,No,Credit card,0,44066.19,0
+23,1890.51,Month-to-month,Fiber optic,Yes,Cash,2,42758.58,0
+69,2186.8,Two year,DSL,Yes,Bank transfer,2,150776.74,0
+38,2235.61,Month-to-month,No,No,Bank transfer,0,85519.58,0
+21,1111.58,Two year,DSL,Yes,UPI,3,23267.05,0
+70,1513.79,Two year,Fiber optic,No,Bank transfer,0,106486.67,0
+67,920.65,Month-to-month,DSL,No,Credit card,2,61910.72,0
+36,913.07,One year,Fiber optic,No,Bank transfer,1,32491.02,0
+2,737.63,Two year,No,No,Cash,5,1372.83,1
+43,2373.04,Two year,DSL,Yes,Credit card,1,101995.68,0
+40,2263.78,Two year,Fiber optic,No,Credit card,0,90217.82,1
+11,2031.45,One year,Fiber optic,No,UPI,1,22006.5,0
+46,1486.09,Month-to-month,Fiber optic,No,Bank transfer,3,68887.51,0
+61,1429.28,Two year,Fiber optic,Yes,Bank transfer,0,86844.0,0
+8,1511.47,One year,No,No,Debit card,1,12469.21,1
+53,1525.79,One year,DSL,Yes,UPI,0,80714.1,0
+11,1311.58,Month-to-month,No,Yes,Credit card,2,14418.41,0
+54,675.69,One year,Fiber optic,No,Debit card,0,36683.91,0
+31,662.89,Month-to-month,DSL,Yes,Cash,1,20340.09,0
+1,2398.72,One year,Fiber optic,Yes,UPI,0,2597.49,0
+70,1411.26,Month-to-month,DSL,Yes,Credit card,1,98071.95,0
+12,2400.73,One year,Fiber optic,No,Bank transfer,1,28962.66,0
+43,742.51,Two year,Fiber optic,Yes,Credit card,1,31063.94,0
+14,1563.27,Month-to-month,DSL,No,Cash,1,21806.38,0
+68,835.21,Month-to-month,Fiber optic,Yes,Cash,1,57093.27,0
+54,930.69,Month-to-month,Fiber optic,No,Credit card,0,50475.06,0
+58,462.11,Two year,DSL,Yes,Bank transfer,1,26347.94,0
+32,648.8,One year,Fiber optic,No,Bank transfer,0,20352.22,0
+34,2324.38,Month-to-month,No,Yes,Bank transfer,0,78787.88,1
+46,1074.22,Month-to-month,DSL,Yes,UPI,3,49479.3,0
+57,1676.07,Month-to-month,DSL,Yes,UPI,2,94824.81,0
+61,1375.53,Month-to-month,DSL,Yes,Credit card,2,83902.7,0
+2,1239.95,Two year,DSL,Yes,UPI,1,2588.9,0
+48,1515.96,One year,DSL,No,Credit card,0,72667.02,0
+8,792.2,Month-to-month,DSL,No,Bank transfer,1,6521.46,0
+21,2475.07,Two year,DSL,Yes,Debit card,0,52054.77,0
+60,2117.45,Month-to-month,Fiber optic,No,Credit card,3,126857.42,0
+19,1956.39,Two year,Fiber optic,No,UPI,3,36493.74,0
+58,1383.39,Month-to-month,DSL,Yes,Credit card,1,80283.31,0
+34,720.04,One year,Fiber optic,Yes,Debit card,3,24147.78,0
+17,2332.4,Two year,Fiber optic,Yes,Bank transfer,1,39448.38,0
+25,1115.91,Month-to-month,Fiber optic,Yes,Credit card,3,28065.44,0
+39,504.22,One year,DSL,No,Credit card,1,20160.65,0
+56,1118.05,Two year,Fiber optic,No,Debit card,3,62597.48,0
+44,2067.36,Month-to-month,DSL,No,UPI,2,91157.76,0
+68,1706.69,Month-to-month,DSL,No,Credit card,3,115549.35,0
+63,1975.76,One year,DSL,No,UPI,0,124558.81,0
+55,2065.63,Month-to-month,Fiber optic,Yes,Debit card,1,113588.68,0
+44,844.1,Month-to-month,DSL,Yes,Debit card,2,37570.63,0
+21,2338.94,Month-to-month,DSL,Yes,Debit card,3,48928.58,0
+30,1318.78,One year,Fiber optic,Yes,Bank transfer,1,39478.83,0
+9,1740.93,Month-to-month,DSL,Yes,Credit card,0,16038.96,0
+27,403.85,Month-to-month,Fiber optic,No,Cash,2,10871.74,1
+67,2485.07,Two year,No,Yes,Cash,0,166111.6,0
+31,988.88,Month-to-month,Fiber optic,Yes,UPI,1,31548.35,0
+9,529.33,Two year,DSL,No,Cash,2,4386.46,0
+47,1361.35,Month-to-month,DSL,Yes,UPI,1,63960.8,0
+70,669.96,Two year,Fiber optic,No,Credit card,2,47018.54,0
+63,718.89,One year,DSL,Yes,Debit card,1,45383.74,0
+20,1726.79,Month-to-month,Fiber optic,No,UPI,0,34469.39,0
+33,1224.15,Two year,DSL,Yes,Credit card,1,40332.28,0
+39,2334.89,Month-to-month,DSL,No,UPI,1,90978.48,0
+18,1069.23,Month-to-month,Fiber optic,Yes,Debit card,1,18855.56,1
+20,1923.98,Month-to-month,Fiber optic,Yes,Cash,1,39232.18,0
+18,1367.31,One year,DSL,No,Cash,3,24534.58,0
+72,1784.9,Month-to-month,Fiber optic,Yes,Credit card,1,128721.73,0
+54,1658.36,Month-to-month,DSL,Yes,Debit card,3,89434.31,0
+61,1391.85,Month-to-month,DSL,No,Debit card,1,84778.68,0
+59,2394.13,Month-to-month,DSL,Yes,Debit card,0,141094.26,0
+70,1118.7,Month-to-month,Fiber optic,No,Bank transfer,1,77766.55,0
+8,771.19,Month-to-month,DSL,No,Cash,0,6113.3,1
+64,1823.0,Month-to-month,No,Yes,Debit card,3,116529.55,0
+5,2175.62,Month-to-month,Fiber optic,No,UPI,1,11288.13,0
+35,483.53,One year,Fiber optic,Yes,Cash,1,16504.7,1
+43,1343.23,Month-to-month,Fiber optic,No,Cash,3,57556.89,0
+26,2273.22,One year,Fiber optic,Yes,Credit card,1,58789.27,0
+11,1973.2,Month-to-month,DSL,Yes,Debit card,1,22210.09,0
+14,2481.8,Month-to-month,Fiber optic,Yes,Cash,0,34440.91,0
+60,1514.97,Month-to-month,DSL,No,Debit card,3,91095.0,0
+23,1784.99,Month-to-month,Fiber optic,No,Debit card,1,41394.33,0
+23,1034.21,Month-to-month,Fiber optic,No,Cash,0,23735.69,0
+67,2388.82,One year,Fiber optic,No,Cash,1,159569.06,0
+11,1168.3,Month-to-month,DSL,No,Debit card,1,12373.85,0
+66,1949.87,Month-to-month,DSL,No,UPI,0,128992.34,0
+67,1245.59,One year,Fiber optic,No,Debit card,1,83013.32,0
+44,1578.82,Month-to-month,DSL,No,Bank transfer,2,69605.29,0
+12,1910.54,Month-to-month,Fiber optic,Yes,Credit card,1,22966.5,0
+12,1467.76,Month-to-month,Fiber optic,No,Debit card,1,17745.12,1
+21,2303.88,Month-to-month,Fiber optic,No,Bank transfer,4,48546.53,0
+42,1279.53,Month-to-month,No,Yes,UPI,5,53413.48,1
+12,1757.85,One year,DSL,No,Debit card,3,20752.77,0
+33,1117.96,Two year,DSL,Yes,Bank transfer,1,37142.9,0
+9,1256.13,Month-to-month,Fiber optic,No,Credit card,2,11084.9,0
+39,1323.11,One year,Fiber optic,Yes,Debit card,1,50638.74,0
+2,663.19,One year,DSL,No,Bank transfer,2,1553.44,0
+52,591.62,Month-to-month,Fiber optic,No,UPI,1,30401.55,0
+4,1800.73,One year,No,No,Bank transfer,2,7366.42,1
+15,1775.59,One year,DSL,Yes,Credit card,2,27121.34,0
+13,1791.11,Two year,Fiber optic,No,Credit card,2,23290.3,0
+60,440.51,Two year,DSL,No,Bank transfer,1,26779.12,0
+4,1084.75,Month-to-month,No,Yes,UPI,1,4392.83,0
+31,814.4,Month-to-month,Fiber optic,Yes,UPI,1,25802.0,0
+43,2033.12,Month-to-month,DSL,Yes,Debit card,2,87052.42,0
+38,2206.32,Month-to-month,No,Yes,Cash,1,83837.28,0
+50,917.03,Month-to-month,Fiber optic,No,UPI,3,46087.11,0
+58,1801.48,Two year,DSL,No,Bank transfer,1,104419.2,0
+29,670.66,Month-to-month,Fiber optic,No,UPI,1,19852.42,1
+60,976.82,Month-to-month,DSL,No,Debit card,5,58457.99,0
+23,690.17,Two year,DSL,No,Debit card,3,16598.19,0
+71,994.39,Month-to-month,DSL,No,Debit card,4,71344.46,0
+37,1815.95,Month-to-month,DSL,No,UPI,1,67288.88,0
+53,2310.69,Two year,DSL,Yes,Bank transfer,2,122659.98,0
+64,824.3,Month-to-month,Fiber optic,No,Credit card,1,53172.29,0
+58,1537.37,Month-to-month,Fiber optic,No,Bank transfer,2,88751.94,0
+62,1871.92,Month-to-month,Fiber optic,No,Bank transfer,2,115599.84,0
+39,2400.14,Two year,DSL,No,Debit card,0,94045.21,0
+4,1680.13,Month-to-month,Fiber optic,No,Credit card,3,6816.42,0
+36,934.72,Month-to-month,Fiber optic,Yes,Bank transfer,2,33570.64,0
+14,1712.5,Month-to-month,DSL,No,Cash,0,23978.89,0
+65,1072.03,Month-to-month,Fiber optic,Yes,Cash,2,68846.84,0
+18,2448.87,Two year,Fiber optic,No,Cash,3,44012.96,0
+17,1238.32,Month-to-month,Fiber optic,Yes,Credit card,1,20787.87,0
+18,1838.4,Two year,Fiber optic,No,Debit card,2,33412.53,0
+47,447.78,Month-to-month,DSL,No,Credit card,1,21393.92,1
+42,1239.13,Month-to-month,Fiber optic,Yes,Cash,0,52245.3,0
+69,2236.73,Two year,Fiber optic,No,Cash,1,154472.78,0
+30,1680.48,Month-to-month,No,No,Cash,0,49890.33,0
+21,1331.28,Month-to-month,DSL,No,UPI,3,28163.61,1
+4,2364.47,Two year,DSL,Yes,Credit card,2,9678.17,0
+1,2192.37,Month-to-month,DSL,Yes,Bank transfer,0,2628.19,1
+27,1075.65,Month-to-month,No,No,Bank transfer,0,29783.92,1
+67,1542.55,Two year,Fiber optic,No,Credit card,1,102758.45,0
+38,1427.63,Month-to-month,DSL,No,UPI,2,54113.97,1
+65,1726.63,Month-to-month,DSL,Yes,UPI,1,111971.16,0
+8,1100.63,Month-to-month,Fiber optic,No,Bank transfer,0,8865.42,1
+7,911.83,Month-to-month,Fiber optic,Yes,Debit card,3,6387.5,1
+61,2315.61,Month-to-month,Fiber optic,Yes,Debit card,0,141170.28,0
+8,2339.14,One year,DSL,No,Cash,1,19072.78,0
+4,2169.98,Month-to-month,DSL,Yes,UPI,2,8294.43,1
+30,2453.23,One year,DSL,No,Bank transfer,3,73232.51,0
+67,1963.48,Month-to-month,Fiber optic,No,Credit card,0,131194.68,0
+50,2004.8,Month-to-month,Fiber optic,No,Cash,0,100113.89,0
+8,2000.44,Month-to-month,Fiber optic,No,Cash,1,15573.51,0
+61,1408.28,One year,DSL,Yes,Debit card,0,85888.08,0
+61,1357.55,Month-to-month,No,Yes,Credit card,1,82752.63,0
+58,903.48,Month-to-month,DSL,Yes,Credit card,0,52126.56,0
+65,1753.12,Two year,No,No,UPI,2,114258.62,0
+18,1006.57,One year,DSL,No,Cash,1,18097.43,0
+71,940.4,Month-to-month,No,Yes,UPI,3,67140.33,0
+24,1629.52,Two year,Fiber optic,Yes,Debit card,2,39040.21,0
+58,1259.96,Month-to-month,Fiber optic,Yes,Debit card,0,73069.21,0
+42,858.6,Month-to-month,Fiber optic,No,Bank transfer,2,35864.23,0
+57,2112.72,Month-to-month,Fiber optic,No,Cash,2,120422.57,0
+46,2206.2,Month-to-month,Fiber optic,No,Debit card,1,101734.48,0
+47,751.17,Month-to-month,Fiber optic,No,Bank transfer,3,35161.02,0
+45,414.76,One year,No,Yes,Debit card,2,18845.64,0
+57,1104.87,Month-to-month,Fiber optic,No,Debit card,2,62693.13,0
+54,2073.77,One year,No,No,UPI,2,112249.25,0
+10,2161.27,Two year,DSL,Yes,Credit card,4,21409.73,0
+60,689.49,One year,DSL,No,Debit card,2,41667.49,0
+39,2025.11,One year,DSL,Yes,UPI,0,79000.63,0
+24,641.98,One year,Fiber optic,No,Credit card,2,15939.85,0
+38,1218.13,Two year,DSL,No,Debit card,2,45885.02,0
+70,2496.08,Month-to-month,Fiber optic,No,Debit card,4,174208.94,0
+62,803.44,Month-to-month,No,No,Cash,1,49597.6,0
+61,722.32,Month-to-month,Fiber optic,Yes,Cash,2,43576.91,0
+34,1286.88,Month-to-month,Fiber optic,No,Bank transfer,1,43269.96,0
+57,1700.3,Month-to-month,DSL,No,UPI,1,97134.64,0
+28,2358.09,One year,DSL,No,Debit card,1,66025.06,0
+50,2458.72,Month-to-month,Fiber optic,No,Bank transfer,1,122768.11,0
+47,545.25,Two year,DSL,Yes,Debit card,2,25491.31,0
+18,688.79,Month-to-month,Fiber optic,No,Debit card,2,12189.19,0
+20,2059.55,Month-to-month,DSL,No,Debit card,1,41768.63,0
+5,967.33,Month-to-month,Fiber optic,Yes,Debit card,3,4579.22,0
+11,2257.18,Month-to-month,Fiber optic,No,Debit card,0,24366.23,1
+32,1792.25,Month-to-month,Fiber optic,No,UPI,1,57630.62,0
+35,633.87,Month-to-month,Fiber optic,No,Debit card,3,22109.94,0
+12,2147.31,Month-to-month,Fiber optic,No,Credit card,2,26481.29,0
+31,769.35,Month-to-month,Fiber optic,No,Bank transfer,0,23665.68,0
+44,1288.34,Month-to-month,Fiber optic,No,Cash,0,56983.05,0
+17,1558.59,Month-to-month,Fiber optic,Yes,Debit card,2,26874.8,0
+25,1450.61,Month-to-month,DSL,No,Credit card,0,36082.78,0
+27,1839.94,Month-to-month,Fiber optic,No,Cash,1,49418.36,0
+37,1769.64,Month-to-month,DSL,No,Bank transfer,2,65736.16,0
+27,2482.29,Month-to-month,No,No,Debit card,0,67223.04,0
+54,2497.79,Month-to-month,Fiber optic,No,UPI,1,134386.95,1
+24,1483.56,One year,No,No,UPI,0,35210.49,0
+32,598.92,Two year,Fiber optic,No,Credit card,2,18277.69,0
+28,1927.47,Two year,Fiber optic,No,Credit card,1,54177.55,0
+14,2449.99,Month-to-month,DSL,No,Bank transfer,2,34208.22,0
+50,1067.49,Month-to-month,DSL,Yes,Debit card,1,53317.75,0
+17,1367.54,Month-to-month,DSL,No,Cash,2,22656.17,0
+22,1291.03,One year,Fiber optic,No,Debit card,1,28018.32,0
+58,506.98,One year,DSL,No,Cash,1,29237.55,0
+69,1810.76,Two year,Fiber optic,No,Debit card,0,124707.13,0
+49,1141.01,Two year,Fiber optic,No,Credit card,2,55950.73,0
+66,2052.67,Month-to-month,Fiber optic,No,Bank transfer,1,135680.43,1
+62,2146.45,One year,No,Yes,Debit card,1,133874.26,0
+35,2123.58,One year,Fiber optic,No,Credit card,0,74318.29,0
+56,1274.0,Month-to-month,DSL,No,Debit card,3,71734.39,0
+24,1074.25,Two year,DSL,Yes,Bank transfer,3,25491.51,1
+34,1971.52,Month-to-month,DSL,Yes,Credit card,2,66445.45,0
+39,2081.92,Two year,DSL,No,Bank transfer,2,81071.57,0
+70,1430.64,One year,DSL,No,Cash,6,99585.6,0
+62,2274.37,Month-to-month,Fiber optic,No,Debit card,1,141016.08,0
+36,701.21,One year,Fiber optic,Yes,Credit card,0,24970.4,0
+47,2245.04,Month-to-month,DSL,No,Debit card,3,104832.89,0
+15,600.8,One year,Fiber optic,No,Cash,4,9619.61,0
+58,721.4,One year,Fiber optic,No,UPI,1,41653.05,0
+40,1520.06,One year,Fiber optic,No,Cash,0,60229.23,0
+39,540.79,Two year,Fiber optic,Yes,Debit card,1,21405.17,0
+56,509.89,Month-to-month,Fiber optic,No,Cash,0,28298.82,0
+46,400.09,Month-to-month,Fiber optic,Yes,Bank transfer,1,18785.7,0
+6,1315.26,Month-to-month,No,No,Bank transfer,1,7634.87,0
+21,2025.71,Month-to-month,Fiber optic,Yes,Cash,1,42350.6,0
+13,472.16,Month-to-month,No,No,UPI,0,6258.77,0
+53,1768.74,Month-to-month,No,Yes,Debit card,0,93950.85,0
+3,2127.57,Month-to-month,Fiber optic,No,UPI,1,6651.68,0
+15,751.8,Month-to-month,DSL,No,Credit card,1,11245.59,0
+44,707.41,Two year,DSL,No,UPI,1,31311.06,0
+51,2206.68,Month-to-month,DSL,Yes,Bank transfer,2,112801.65,0
+37,2127.56,Two year,Fiber optic,Yes,Bank transfer,1,78789.92,0
+62,1530.78,Month-to-month,Fiber optic,No,Bank transfer,1,94858.43,0
+67,2119.32,Month-to-month,Fiber optic,No,UPI,1,141488.59,0
+10,593.79,Month-to-month,DSL,No,Credit card,3,6147.61,0
+69,1227.41,Month-to-month,No,No,Bank transfer,2,84706.05,0
+45,1948.37,Month-to-month,DSL,No,Cash,3,87531.88,0
+46,939.65,Month-to-month,DSL,No,Cash,0,43671.12,0
+7,1978.89,Month-to-month,No,Yes,UPI,2,13352.49,1
+45,1457.78,Month-to-month,DSL,No,Debit card,0,66175.51,0
+53,1974.56,One year,Fiber optic,No,UPI,1,104643.88,0
+42,1374.83,Month-to-month,DSL,No,Cash,1,57853.99,0
+7,1171.6,Two year,Fiber optic,No,UPI,0,8062.93,0
+38,859.3,Month-to-month,Fiber optic,No,Cash,0,32069.92,0
+68,836.6,Two year,DSL,No,UPI,0,56839.94,0
+53,1977.13,One year,No,No,UPI,2,104905.05,0
+10,648.71,Two year,Fiber optic,Yes,Cash,3,6723.78,1
+70,579.56,Two year,DSL,No,Debit card,2,40499.89,0
+70,769.21,Month-to-month,Fiber optic,No,Debit card,2,53077.31,0
+13,767.23,Month-to-month,Fiber optic,No,Bank transfer,1,9434.41,0
+58,2127.53,Month-to-month,Fiber optic,No,Credit card,1,124114.95,0
+30,1235.86,One year,DSL,Yes,Bank transfer,3,36693.41,0
+43,2478.82,One year,DSL,Yes,Debit card,2,107088.73,0
+33,687.14,Month-to-month,Fiber optic,Yes,Credit card,1,22348.69,0
+57,1771.43,Two year,Fiber optic,No,Credit card,1,100907.65,0
+72,1341.33,Month-to-month,Fiber optic,Yes,UPI,2,96794.58,0
+58,1224.13,One year,Fiber optic,No,Credit card,3,70712.47,0
+68,2236.68,One year,DSL,No,Debit card,1,152651.52,0
+69,2447.75,Month-to-month,DSL,No,UPI,3,168921.25,0
+7,2232.0,One year,DSL,Yes,UPI,1,15785.3,1
+19,802.83,One year,Fiber optic,No,Bank transfer,0,15160.11,1
+52,862.68,Month-to-month,DSL,Yes,Debit card,3,45089.91,0
+43,1776.76,Month-to-month,Fiber optic,No,UPI,1,76953.26,0
+4,1006.08,Month-to-month,Fiber optic,Yes,Bank transfer,2,3978.37,1
+7,1941.92,One year,No,Yes,Bank transfer,2,14198.84,0
+38,1588.48,Month-to-month,DSL,Yes,UPI,2,60148.18,0
+45,1555.91,Two year,No,No,Credit card,2,70283.38,0
+13,2138.95,Two year,No,Yes,Credit card,0,27977.54,0
+13,1891.12,Month-to-month,DSL,No,Bank transfer,2,24210.56,1
+10,454.81,Month-to-month,No,No,UPI,4,4622.93,1
+41,502.86,One year,Fiber optic,No,Cash,1,20619.84,1
+1,1662.27,One year,Fiber optic,Yes,Credit card,1,1662.27,0
+42,1420.0,Month-to-month,Fiber optic,Yes,UPI,0,59765.3,0
+35,945.39,Month-to-month,Fiber optic,No,Cash,1,33139.85,0
+34,1278.18,Month-to-month,Fiber optic,Yes,UPI,0,43432.71,0
+49,1990.61,Two year,Fiber optic,No,UPI,1,97515.89,0
+38,2134.88,Month-to-month,DSL,Yes,Cash,3,81093.94,0
+53,1577.57,Two year,DSL,No,Debit card,1,83482.52,0
+56,1208.28,Month-to-month,DSL,Yes,Debit card,1,67712.62,0
+67,967.46,Two year,Fiber optic,No,Bank transfer,2,64594.45,0
+58,1495.03,Month-to-month,DSL,Yes,Bank transfer,1,87641.62,0
+38,1059.97,Month-to-month,Fiber optic,No,Bank transfer,0,39785.59,0
+36,1583.6,Two year,Fiber optic,Yes,UPI,0,56804.94,0
+17,1819.97,Two year,Fiber optic,No,Debit card,0,30762.48,0
+44,537.77,Month-to-month,Fiber optic,No,Credit card,0,24376.05,0
+11,401.24,Month-to-month,Fiber optic,Yes,Cash,2,3951.59,0
+68,844.78,Month-to-month,DSL,Yes,Debit card,1,57594.11,0
+61,2277.47,Month-to-month,DSL,Yes,UPI,1,139012.61,0
+9,1756.21,Month-to-month,DSL,Yes,Cash,2,15922.65,0
+57,760.12,Two year,Fiber optic,Yes,Credit card,3,43759.56,0
+9,2268.55,Month-to-month,DSL,No,Credit card,0,20842.49,1
+52,1385.91,One year,DSL,No,Cash,3,71909.49,0
+7,1398.79,Month-to-month,Fiber optic,Yes,Bank transfer,3,9859.44,0
+36,2363.64,Month-to-month,DSL,No,Cash,1,84438.6,0
+48,523.92,One year,DSL,Yes,Bank transfer,3,25182.84,0
+53,850.87,Month-to-month,Fiber optic,No,Cash,1,44818.21,1
+31,1629.12,One year,Fiber optic,Yes,UPI,1,50437.49,0
+67,809.52,Month-to-month,DSL,No,Debit card,2,53647.96,0
+56,1826.01,Two year,Fiber optic,No,Credit card,1,102398.27,0
+15,848.59,One year,Fiber optic,Yes,Credit card,2,12135.05,0
+49,607.23,Two year,Fiber optic,Yes,Credit card,3,29806.17,0
+53,833.67,Month-to-month,No,No,Credit card,2,43755.23,1
+25,1286.74,Month-to-month,Fiber optic,No,Debit card,3,31871.13,1
+54,768.89,Month-to-month,Fiber optic,No,Cash,1,41924.22,0
+65,681.85,Month-to-month,Fiber optic,No,Bank transfer,2,44526.02,0
+59,2205.59,Month-to-month,DSL,No,Credit card,3,130532.03,1
+55,1071.83,Month-to-month,DSL,No,Debit card,3,59496.55,0
+46,1156.59,Month-to-month,No,No,Debit card,1,52932.65,0
+20,515.07,Month-to-month,Fiber optic,No,Credit card,0,10826.04,0
+58,1149.48,Month-to-month,Fiber optic,No,Debit card,1,66156.91,0
+27,955.1,Month-to-month,DSL,Yes,Bank transfer,1,26048.84,0
+39,1681.02,Month-to-month,Fiber optic,No,Credit card,0,65387.11,1
+23,830.32,One year,DSL,Yes,Debit card,4,18771.75,0
+23,2264.57,Month-to-month,DSL,Yes,Bank transfer,2,52300.17,0
+12,2351.3,Month-to-month,Fiber optic,No,Debit card,3,28546.33,0
+70,608.65,Month-to-month,No,Yes,Credit card,1,42925.84,0
+11,624.55,One year,DSL,Yes,Debit card,2,6945.25,0
+7,641.19,Month-to-month,Fiber optic,Yes,Bank transfer,0,4534.52,0
+68,1700.1,One year,DSL,No,Credit card,6,115791.2,0
+40,655.13,Two year,Fiber optic,No,Debit card,1,26311.52,0
+32,2189.0,Month-to-month,DSL,Yes,Bank transfer,0,70237.47,0
+54,1982.97,Two year,Fiber optic,Yes,Credit card,1,107151.78,0
+28,2120.6,One year,Fiber optic,No,Credit card,4,59671.77,0
+10,1503.73,Month-to-month,DSL,No,Cash,0,14467.78,1
+53,2492.02,Month-to-month,Fiber optic,Yes,Credit card,1,132031.11,1
+13,491.77,One year,Fiber optic,No,Debit card,1,5908.66,0
+40,1241.66,Two year,DSL,No,UPI,0,49763.25,0
+69,1079.27,Month-to-month,Fiber optic,Yes,Cash,0,75044.31,0
+68,2391.16,Month-to-month,Fiber optic,No,Debit card,1,162432.95,0
+26,1610.41,One year,Fiber optic,No,Bank transfer,1,41915.2,0
+57,2092.0,Month-to-month,Fiber optic,No,Bank transfer,1,119508.77,0
+45,756.72,One year,Fiber optic,No,Credit card,0,33328.7,0
+35,2454.13,Month-to-month,DSL,No,Credit card,3,85711.81,0
+11,1446.14,One year,No,No,Bank transfer,1,16035.12,0
+28,1435.71,Two year,Fiber optic,No,Cash,1,39185.93,0
+47,2437.86,One year,No,No,UPI,0,114237.54,0
+72,1198.54,One year,DSL,No,Cash,1,86680.18,0
+1,1233.8,One year,DSL,No,Cash,0,1584.85,0
+52,1626.98,Two year,DSL,No,UPI,0,84733.97,0
+61,667.91,Two year,DSL,Yes,UPI,2,41051.28,0
+69,1073.28,Month-to-month,DSL,Yes,Bank transfer,3,74131.61,0
+31,804.74,One year,DSL,No,Cash,3,25141.33,0
+9,615.9,Month-to-month,DSL,No,Credit card,0,5432.62,1
+20,2217.9,Two year,Fiber optic,Yes,Bank transfer,0,44398.53,0
+62,1636.6,One year,Fiber optic,No,Cash,0,101247.87,0
+64,1152.21,Month-to-month,DSL,Yes,Credit card,0,74183.66,1
+46,1257.21,Month-to-month,Fiber optic,Yes,Credit card,1,58364.21,0
+9,1305.19,Month-to-month,Fiber optic,No,Cash,2,12229.68,1
+9,1728.61,One year,Fiber optic,Yes,Credit card,2,15414.65,0
+35,2345.22,Month-to-month,Fiber optic,No,Debit card,5,81748.88,0
+43,2357.84,Month-to-month,DSL,Yes,Debit card,3,101834.06,0
+3,1221.13,Two year,DSL,No,Debit card,3,3853.76,0
+50,1090.45,One year,Fiber optic,Yes,Credit card,1,54637.5,0
+40,1346.2,Month-to-month,Fiber optic,No,Bank transfer,3,53626.23,1
+1,1591.66,Month-to-month,Fiber optic,No,Bank transfer,1,1740.64,1
+7,1368.82,Two year,Fiber optic,Yes,Credit card,2,9201.89,0
+33,1782.38,One year,DSL,Yes,Debit card,2,59040.46,0
+53,1563.24,One year,DSL,Yes,UPI,3,83334.33,0
+60,1072.5,Month-to-month,DSL,No,Credit card,2,64920.87,0
+32,1125.03,Month-to-month,DSL,No,Cash,1,36248.94,0
+22,1194.04,Month-to-month,No,No,Debit card,2,25785.17,0
+70,597.74,One year,DSL,No,Bank transfer,2,41910.87,0
+34,747.73,Month-to-month,DSL,No,Cash,5,26171.71,0
+23,1917.54,Month-to-month,Fiber optic,No,Bank transfer,2,43799.41,0
+32,1216.1,One year,Fiber optic,No,Bank transfer,1,38894.49,1
+1,849.53,Two year,No,No,Bank transfer,2,1344.26,1
+22,1580.61,One year,Fiber optic,No,Debit card,0,34989.42,1
+38,1985.63,Month-to-month,Fiber optic,No,Bank transfer,2,76321.99,0
+67,939.59,Month-to-month,No,Yes,Credit card,2,62696.03,0
+54,2135.26,Month-to-month,DSL,Yes,Cash,3,114957.63,0
+57,2346.76,Month-to-month,Fiber optic,Yes,UPI,2,134193.76,0
+40,1653.53,Month-to-month,Fiber optic,No,Cash,0,65722.64,1
+8,1803.79,Month-to-month,Fiber optic,Yes,Cash,1,14361.45,0
+29,509.41,One year,DSL,No,UPI,4,14749.91,0
+72,2384.59,Two year,Fiber optic,No,Bank transfer,2,172053.08,0
+4,1223.22,Two year,No,No,Cash,1,5107.87,0
+64,2339.19,Month-to-month,No,No,Debit card,0,149868.13,0
+50,1614.85,Month-to-month,DSL,Yes,Credit card,0,80601.65,0
+21,408.7,Month-to-month,DSL,No,Cash,0,9007.95,0
+57,479.94,Month-to-month,Fiber optic,Yes,Debit card,2,28765.62,0
+61,1827.88,Month-to-month,Fiber optic,No,UPI,3,111742.63,0
+4,1580.6,Month-to-month,DSL,No,Credit card,5,6357.29,0
+8,454.72,One year,Fiber optic,No,Bank transfer,3,3183.51,1
+48,1960.27,Month-to-month,Fiber optic,No,Debit card,0,93869.84,0
+72,2188.51,Two year,Fiber optic,No,Credit card,1,157497.92,0
+2,1441.48,Month-to-month,Fiber optic,No,Bank transfer,1,2695.85,1
+48,1377.09,Month-to-month,Fiber optic,No,UPI,1,66094.69,0
+10,410.49,Month-to-month,DSL,No,Credit card,2,4727.21,0
+47,2050.96,Month-to-month,DSL,Yes,Debit card,0,96831.63,0
+45,1093.5,Month-to-month,DSL,Yes,UPI,3,49151.91,0
+7,2244.4,Two year,DSL,No,Credit card,1,15287.9,0
+50,1182.43,Month-to-month,Fiber optic,Yes,Cash,2,59589.58,0
+65,1585.66,Month-to-month,DSL,No,Cash,2,103050.73,0
+63,966.72,One year,DSL,No,Cash,1,60299.08,0
+3,736.24,Month-to-month,Fiber optic,No,Credit card,0,2458.07,1
+18,2026.31,One year,No,Yes,UPI,0,36832.57,0
+18,1441.84,Month-to-month,Fiber optic,No,Cash,1,25104.05,0
+33,1525.62,Two year,Fiber optic,Yes,Credit card,4,50056.87,0
+11,2426.37,Month-to-month,Fiber optic,No,Bank transfer,0,26651.41,0
+62,2422.52,Month-to-month,Fiber optic,No,UPI,2,150453.32,0
+56,2195.85,One year,Fiber optic,Yes,Bank transfer,1,122787.09,0
+59,792.98,Two year,DSL,Yes,Debit card,1,46494.57,0
+15,1646.97,Month-to-month,DSL,Yes,Cash,1,24959.06,0
+2,2243.11,One year,Fiber optic,No,UPI,1,4322.31,1
+66,1185.37,Month-to-month,DSL,No,Debit card,0,78424.14,0
+21,611.32,Month-to-month,Fiber optic,Yes,Cash,2,12448.69,0
+48,2102.02,Month-to-month,DSL,Yes,Credit card,2,100423.64,0
+66,1410.7,One year,Fiber optic,No,Bank transfer,0,93370.54,0
+3,1584.22,Month-to-month,Fiber optic,Yes,UPI,1,4841.04,0
+1,2461.5,One year,DSL,No,Bank transfer,2,2784.36,0
+1,1674.14,Month-to-month,DSL,No,Credit card,3,1674.14,0
+12,1291.46,Two year,DSL,No,Debit card,0,15219.23,0
+4,1175.97,Two year,DSL,No,Cash,1,5180.13,0
+60,1276.0,Month-to-month,DSL,No,Bank transfer,2,76026.96,0
+44,647.64,Month-to-month,Fiber optic,No,Debit card,1,28934.17,0
+71,2067.98,Month-to-month,Fiber optic,Yes,UPI,4,147288.76,0
+58,2158.21,Two year,Fiber optic,Yes,Credit card,3,125477.21,0
+70,996.23,Month-to-month,Fiber optic,No,Cash,0,69495.37,0
+18,1036.97,Month-to-month,Fiber optic,Yes,Credit card,1,18379.68,0
+21,2235.1,Month-to-month,DSL,No,Bank transfer,4,46863.58,0
+62,449.34,One year,Fiber optic,No,Debit card,1,27405.82,0
+18,1491.96,Month-to-month,DSL,No,Credit card,1,26518.69,0
+5,1372.72,Month-to-month,DSL,Yes,Bank transfer,1,7089.26,0
+49,1848.27,Two year,DSL,No,Credit card,1,90792.5,0
+58,742.12,Month-to-month,DSL,No,Credit card,1,42675.61,0
+70,1802.49,Two year,Fiber optic,Yes,Debit card,2,126410.94,0
+67,1190.14,Month-to-month,Fiber optic,No,Bank transfer,0,79898.39,0
+9,1698.3,Month-to-month,DSL,No,Cash,3,15813.16,1
+56,483.2,Two year,DSL,No,Bank transfer,3,27258.4,0
+61,1368.63,One year,Fiber optic,No,Bank transfer,1,83856.93,0
+51,1495.73,One year,Fiber optic,Yes,Bank transfer,1,76449.21,0
+60,849.09,Month-to-month,DSL,No,Credit card,4,51288.38,0
+61,692.21,Month-to-month,DSL,No,Credit card,2,41774.32,0
+33,794.8,Month-to-month,Fiber optic,Yes,Debit card,2,26185.79,0
+3,1121.7,Month-to-month,Fiber optic,No,Bank transfer,1,3351.46,0
+33,602.3,Month-to-month,DSL,Yes,Bank transfer,1,19790.59,0
+15,2388.37,Month-to-month,Fiber optic,Yes,UPI,1,35980.91,0
+9,1249.49,Month-to-month,DSL,No,Bank transfer,0,11467.44,0
+9,2097.84,Month-to-month,Fiber optic,Yes,Credit card,3,19017.85,1
+51,2445.28,Month-to-month,DSL,No,Cash,2,124647.35,0
+37,568.54,Month-to-month,Fiber optic,Yes,Bank transfer,3,20778.47,0
+39,1767.51,Two year,Fiber optic,No,Cash,5,69316.91,1
+54,2228.96,One year,No,Yes,Bank transfer,1,120486.25,0
+40,1730.89,Month-to-month,Fiber optic,No,Debit card,0,68879.09,0
+46,1299.95,One year,No,Yes,UPI,2,59729.91,0
+7,1304.26,Two year,Fiber optic,No,Credit card,3,8519.67,0
+62,474.39,Month-to-month,DSL,Yes,Cash,0,29424.56,0
+33,1521.66,Month-to-month,No,Yes,Credit card,1,50145.35,0
+12,2485.44,Month-to-month,DSL,No,UPI,2,29624.22,0
+59,2412.29,Month-to-month,Fiber optic,No,Credit card,2,142879.72,0
+53,483.84,One year,DSL,No,Debit card,0,25238.87,0
+4,1881.17,Two year,DSL,Yes,Bank transfer,3,7771.92,0
+14,1032.71,Month-to-month,No,Yes,Cash,2,15223.29,0
+2,2295.28,One year,Fiber optic,No,Cash,0,4967.6,1
+20,493.74,Month-to-month,Fiber optic,No,Debit card,1,9863.76,1
+8,2364.34,One year,Fiber optic,Yes,Debit card,1,18517.8,1
+52,2157.7,One year,DSL,No,Cash,2,111723.68,0
+38,645.76,Month-to-month,No,No,UPI,2,24394.84,0
+71,524.63,Month-to-month,Fiber optic,No,Debit card,1,37008.28,1
+54,2151.89,One year,DSL,Yes,Debit card,3,115950.22,0
+45,726.09,Two year,No,No,Bank transfer,1,32559.84,0
+37,1522.29,Month-to-month,Fiber optic,Yes,Cash,3,56288.94,1
+4,2322.06,Month-to-month,Fiber optic,No,Bank transfer,0,9458.06,0
+6,1590.64,Month-to-month,DSL,Yes,Bank transfer,0,9110.61,0
+45,1233.19,One year,DSL,No,Bank transfer,3,55254.76,0
+1,1333.53,One year,Fiber optic,No,Debit card,2,1333.53,0
+4,531.55,One year,DSL,No,Credit card,2,2057.78,0
+16,2433.38,One year,DSL,Yes,Credit card,0,39576.83,0
+64,1051.37,Two year,No,Yes,Bank transfer,0,67368.97,0
+34,796.66,One year,DSL,No,Bank transfer,0,26521.68,0
+52,999.7,Month-to-month,DSL,No,Credit card,1,52130.76,0
+30,2424.18,One year,DSL,No,Cash,1,72916.38,0
+13,597.0,Month-to-month,Fiber optic,Yes,Cash,0,7717.21,1
+27,2220.34,Month-to-month,DSL,No,Bank transfer,1,59524.49,0
+7,1885.47,Two year,Fiber optic,Yes,Credit card,2,13813.61,0
+56,2142.04,One year,DSL,Yes,Cash,0,119579.78,0
+14,2448.38,Two year,Fiber optic,Yes,Credit card,2,34508.59,0
+28,2167.52,Month-to-month,DSL,No,Debit card,2,60760.58,0
+71,2380.1,Month-to-month,Fiber optic,Yes,Cash,2,169197.38,0
+43,665.56,Month-to-month,Fiber optic,Yes,Debit card,5,29216.48,0
+34,2070.16,Month-to-month,Fiber optic,No,Credit card,3,70582.01,0
+40,1544.92,Month-to-month,DSL,No,UPI,3,61601.27,0
+57,1540.34,Month-to-month,DSL,Yes,Credit card,3,88186.48,0
+19,2286.74,Month-to-month,Fiber optic,Yes,Bank transfer,3,43227.18,1
+46,2439.79,Two year,DSL,No,Bank transfer,1,112287.59,0
+63,1879.16,Month-to-month,DSL,Yes,Credit card,1,117934.5,0
+42,1413.17,Month-to-month,Fiber optic,Yes,UPI,4,58991.49,0
+33,1357.45,One year,DSL,No,Bank transfer,1,44813.84,0
+11,1210.32,Month-to-month,Fiber optic,Yes,UPI,2,13442.35,0
+18,1158.36,Two year,Fiber optic,No,UPI,3,20254.64,0
+69,1221.16,One year,DSL,Yes,Debit card,0,84434.09,0
+39,587.48,Month-to-month,Fiber optic,Yes,Debit card,0,22624.92,0
+22,561.62,One year,DSL,Yes,Credit card,3,12803.53,0
+31,2036.73,One year,No,Yes,Credit card,1,63015.44,0
+42,1335.75,One year,DSL,Yes,Credit card,1,55708.23,0
+39,2353.44,Two year,DSL,Yes,Credit card,1,91810.69,0
+51,1684.66,One year,DSL,No,UPI,3,85596.98,0
+19,472.87,One year,No,No,UPI,3,9428.66,0
+47,729.8,Month-to-month,Fiber optic,Yes,Credit card,2,34300.79,1
+32,831.22,One year,Fiber optic,No,UPI,1,26545.95,0
+68,2448.05,Two year,DSL,No,Credit card,1,166674.53,0
+12,858.28,One year,Fiber optic,No,Debit card,1,9947.63,0
+11,1482.09,One year,Fiber optic,Yes,UPI,1,15851.79,0
+34,2364.97,Month-to-month,Fiber optic,Yes,Bank transfer,1,80551.9,0
+37,2451.1,One year,DSL,Yes,Bank transfer,0,90305.82,1
+50,895.36,Two year,Fiber optic,Yes,Debit card,3,44383.0,0
+30,502.15,Month-to-month,Fiber optic,Yes,Bank transfer,0,15357.36,0
+66,721.56,Month-to-month,Fiber optic,No,Cash,0,47806.73,0
+35,531.99,Month-to-month,Fiber optic,No,UPI,3,18180.81,0
+10,808.76,Month-to-month,DSL,Yes,UPI,2,7870.9,0
+9,1593.0,One year,Fiber optic,No,Credit card,1,14020.69,0
+71,2315.14,Month-to-month,DSL,No,Bank transfer,2,164996.65,0
+10,1527.16,Month-to-month,DSL,No,Cash,3,15588.7,0
+69,1713.58,One year,Fiber optic,No,Cash,0,118089.72,0
+21,822.92,One year,DSL,Yes,Debit card,2,17482.99,0
+7,2080.23,One year,DSL,No,Debit card,1,14086.94,0
+22,1696.36,One year,DSL,No,Debit card,1,37084.49,0
+45,2213.69,One year,Fiber optic,No,UPI,1,99652.75,0
+31,2391.57,One year,Fiber optic,No,Debit card,1,74296.95,0
+57,1129.59,One year,No,No,Debit card,0,64352.52,0
+44,589.22,Month-to-month,DSL,Yes,Credit card,0,26012.48,0
+29,873.45,One year,No,Yes,Bank transfer,3,25357.47,0
+46,1318.47,Month-to-month,No,No,Cash,1,60592.37,0
+70,2384.96,Month-to-month,Fiber optic,Yes,Credit card,1,166843.55,0
+30,1193.45,Month-to-month,DSL,No,Cash,4,35654.31,0
+12,2017.62,Two year,Fiber optic,No,UPI,0,24292.62,0
+30,1534.0,One year,DSL,No,Cash,0,46163.79,1
+61,782.9,Month-to-month,Fiber optic,Yes,Bank transfer,3,47826.33,0
+16,1072.54,One year,Fiber optic,No,Credit card,3,16748.13,0
+69,1770.7,Month-to-month,DSL,Yes,Bank transfer,0,121828.68,0
+43,1811.99,One year,DSL,Yes,Credit card,0,78055.18,0
+44,1312.0,Two year,DSL,Yes,Bank transfer,2,58243.09,0
+23,879.16,One year,Fiber optic,No,UPI,1,20274.03,0
+67,1915.0,One year,Fiber optic,No,Credit card,1,128160.92,0
+3,753.63,Month-to-month,No,Yes,Credit card,0,2339.41,0
+22,2366.01,Month-to-month,Fiber optic,No,UPI,2,51654.33,1
+31,793.6,Two year,Fiber optic,Yes,Credit card,0,25059.73,0
+35,624.36,One year,DSL,No,Bank transfer,1,21917.91,0
+35,1444.06,Month-to-month,Fiber optic,Yes,Bank transfer,0,50307.79,0
+11,1490.05,Month-to-month,DSL,No,Debit card,0,16332.17,0
+17,1466.21,Month-to-month,Fiber optic,No,UPI,3,24741.11,0
+7,1316.0,Month-to-month,DSL,No,Credit card,3,9671.08,0
+42,2488.11,Month-to-month,No,Yes,Cash,1,104429.84,0
+26,1420.19,Month-to-month,No,No,Credit card,2,36979.32,0
+41,1402.69,Two year,DSL,No,UPI,3,57711.09,1
+43,1284.71,Month-to-month,Fiber optic,No,Debit card,2,54983.26,1
+51,539.33,Month-to-month,DSL,No,UPI,3,27573.63,0
+40,1644.21,Month-to-month,DSL,No,Credit card,2,65864.45,0
+47,877.73,Month-to-month,DSL,Yes,Cash,0,40709.38,0
+43,1737.98,One year,DSL,No,Credit card,0,74821.58,1
+47,505.75,Month-to-month,DSL,Yes,Bank transfer,1,23754.23,0
+45,2459.91,One year,DSL,No,Debit card,1,110741.44,0
+23,1383.91,One year,DSL,Yes,Credit card,1,31842.4,0
+18,2282.19,Month-to-month,Fiber optic,Yes,Bank transfer,4,41170.13,0
+57,1397.68,One year,DSL,No,Debit card,0,80135.83,0
+25,525.69,Two year,DSL,No,Credit card,0,12729.42,0
+40,2125.65,Month-to-month,Fiber optic,No,Credit card,1,84906.25,0
+15,1760.19,Month-to-month,DSL,No,Cash,1,26636.17,0
+32,2040.69,Two year,DSL,Yes,UPI,4,65470.4,0
+39,1298.16,Two year,Fiber optic,Yes,Cash,0,50789.03,0
+46,1738.67,Month-to-month,DSL,Yes,Debit card,2,80942.57,1
+38,2197.08,One year,DSL,No,Cash,2,83703.99,0
+26,1724.24,Month-to-month,DSL,No,Credit card,1,45226.07,0
+70,1129.11,One year,Fiber optic,No,Debit card,4,78930.22,0
+37,1790.31,Month-to-month,DSL,No,Bank transfer,0,65893.95,0
